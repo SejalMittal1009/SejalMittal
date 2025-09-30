@@ -56,9 +56,9 @@ Benchmarking LLM-powered evaluators for image editing tasks across controllabili
 Designed a custom CNN model achieving 97.91% accuracy on bell pepper image classification; submitted to IEEE Xplore.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mitsejal&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mitsejal&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mitsejal&theme=default&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SejalMittal1009&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SejalMittal1009&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SejalMittal1009&theme=radical&hide_border=false&layout=compact)
 
 ## 🏆 Highlights:
 •⁠  ⁠🚀 99.92% storage reduction using Apache Iceberg at Amazon  
